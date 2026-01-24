@@ -1,0 +1,14 @@
+------------------------------------------------------------------------------------------------------
+What I prompted:
+- Can you explain this error to me: ThisYear.java:26: error: reached end of file while parsing
+- I used past examples on code.org
+- I used the starter code provided on Schoology
+- I looked at the example project provided
+------------------------------------------------------------------------------------------------------
+What Solution I recieved:
+- I was missing a curly brace at the bottom or I would have an extra one. In this case I didn't have 
+anything in the ThisYear class, so the program was acting weird.
+- This helped me format my code for my project.
+- The starter code helped me start the project!
+- The example project helped me figure out what methods to use.
+------------------------------------------------------------------------------------------------------
